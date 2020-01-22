@@ -3,8 +3,6 @@ GeoCoin
 ================================
 A QUBIT ALGO CRYPTOCOIN!
 
-ASIC-restistant, FPGA-resistant, GPU/CPU friendly!
-
 Bringing GIS technologies to the blockchain!
 
 Algorithm: Qubit
